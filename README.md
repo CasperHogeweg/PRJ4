@@ -4,7 +4,7 @@ A template to create a CV while learning HTML and CSS
 
 ## See it live!
 
-Click on <https://github.com/CasperHogeweg/PRJ4.git> to see what the résumé looks like when published!
+Click on <https://casperhogeweg.github.io/PRJ4/> to see what the résumé looks like when published!
 
 ## Create your own CV
 
