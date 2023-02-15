@@ -11,6 +11,12 @@ body {
 	background-color: #FFFFFF;
 }
 
+header {
+	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+}
+
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
