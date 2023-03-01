@@ -31,6 +31,14 @@ header {
 	background-color: #D8D6E7;
 }
 
+.bg-warning {
+    background-color: rgba(143, 120, 141, 1)!important;
+}
+
+.border-info {
+    border-color: rgba(255, 255, 255, 1)!important;
+}
+
 
 /* Styles for lists in the document */
 
