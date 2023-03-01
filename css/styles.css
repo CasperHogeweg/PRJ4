@@ -6,13 +6,13 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #202030;
 	background-color: #FFFFFF;
 }
 
 header {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: #FFFFFF;
 	background-color: #FFFFFF;
 }
@@ -31,6 +31,7 @@ header {
 	background-color: #D8D6E7;
 }
 
+
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
@@ -42,7 +43,7 @@ header {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #746BC0;
 }
 
 .biography-details li, .skill-list li {
