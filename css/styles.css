@@ -6,13 +6,13 @@
 /* Styles for the body */
 
 body {
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-family: Avenir light;
 	color: #202030;
 	background-color: #FFFFFF;
 }
 
 header {
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: Avenir;
 	color: #FFFFFF;
 	background-color: #FFFFFF;
 }
