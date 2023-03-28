@@ -6,13 +6,13 @@
 /* Styles for the body */
 
 body {
-	font-family: Avenir light;
+	font-family: 'Lato', sans-serif;
 	color: #202030;
 	background-color: #EAEAEA;
 }
 
 header {
-	font-family: Avenir;
+	font-family: 'Lato', sans-serif;
 	color: #FFFFFF;
 	background-color: #FFFFFF;
 }
